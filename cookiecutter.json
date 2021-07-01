@@ -1,0 +1,9 @@
+{
+    "project_name": "",
+    "author_name": "Eugen Ciur",
+    "author_email": "eugen@papermerge.com",
+    "year": "2021",
+    "version": "0.1.0",
+    "github_url": "https://github.com/papermerge/{{cookiecutter.project_name}}-js.git",
+    "webpack_exported_library_name": "{{cookiecutter.project_name}}"
+}
