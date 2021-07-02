@@ -7,7 +7,7 @@ from flask import (
     render_template,
     send_from_directory
 )
-from app.uploader import (
+from app.{{cookiecutter.project_name}} import (
     create_blueprint,
     global_context
 )

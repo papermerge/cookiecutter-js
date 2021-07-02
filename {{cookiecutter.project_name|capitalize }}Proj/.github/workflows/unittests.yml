@@ -1,3 +1,4 @@
+{% raw %}
 name: Unittests
 on:
   push:
@@ -22,3 +23,4 @@ jobs:
       - name: Run unittests
         run: |
           make test
+{% endraw %}
